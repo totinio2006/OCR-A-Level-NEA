@@ -1,0 +1,25 @@
+{   "id":"1239",
+    "name": "Final broken quiz",
+    "author":"Somebody",
+    "time_limit": 150000,
+    "questions": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "CO2", "HO"],
+        "answer": "H2O"
+      },
+      {
+        "question": "What planet is known as the Blue Planet?",
+        "options": ["Earth", "Neptune", "Uranus", "Saturn"],
+        "answer": "Earth"
+      },
+      
+      {
+        "question": "Identify the rock type shown in the image.",
+        "options": ["Sedimentary", "Igneous", "Metamorphic", "All of the above"],
+        "answer": "Metamorphic",
+        "image": "invalid/path//"
+      }
+    ]
+  }
+  

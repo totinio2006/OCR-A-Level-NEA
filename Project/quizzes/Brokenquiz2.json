@@ -1,0 +1,25 @@
+{
+    "name": "Broken quiz with uneccesairily long name",
+    "author": "Ridiculous",
+    "time_limit": 10000,
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Paris", "Madrid"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is 5 multiplied by 7?",
+        "options": ["11", "30", "35", "60"],
+        "answer": "35"
+      },
+      
+      {
+        "question": "Look at the image and name the landmark shown.",
+        "options": [],
+        "answer": "Eiffel Tower",
+        "image": "./nopathanywhere"
+      }
+    ]
+  }
+  

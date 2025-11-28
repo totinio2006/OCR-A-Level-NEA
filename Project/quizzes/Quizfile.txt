@@ -1,0 +1,18 @@
+{
+  "id": "quiz1",
+  "name": "Sample Quiz",
+  "author": "Teacher A",
+  "time_limit": 5,
+  "questions": [
+    {
+      "question": "What is 2+2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "Name the capital of France.",
+      "options": [],
+      "answer": "Paris"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "quiz1",
+  "name": "Basic Math and Geography Quiz",
+  "author": "Teacher A",
+  "time_limit": 5,
+  "questions": [
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "Identify the capital of France by looking at the image.",
+      "options": [],
+      "answer": "Paris",
+      "image": "C:\\Users\\totin\\OneDrive\\Работен плот\\Project\\Images\\paris.jpg"
+    }
+  ]
+}
